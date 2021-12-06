@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "426567362750",
+    "project_id": "go-math-2e024",
+    "storage_bucket": "go-math-2e024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426567362750:android:d133addf3dd46ca1f156ef",
+        "android_client_info": {
+          "package_name": "com.gomath5.go_math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426567362750-q7drlcva3r32m5mqk2fleok0tp6b8jkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX20Cit2uOUIbCAoEk_G_AfM_Vq4g52Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426567362750-q7drlcva3r32m5mqk2fleok0tp6b8jkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426567362750:android:d3a7ebdad21163f9f156ef",
+        "android_client_info": {
+          "package_name": "id.codes.cerita_anak_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426567362750-q7drlcva3r32m5mqk2fleok0tp6b8jkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX20Cit2uOUIbCAoEk_G_AfM_Vq4g52Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426567362750-q7drlcva3r32m5mqk2fleok0tp6b8jkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
